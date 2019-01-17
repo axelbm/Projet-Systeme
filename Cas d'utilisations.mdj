@@ -583,8 +583,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 208,
-											"top": 256,
+											"left": 192,
+											"top": 240,
 											"height": 13
 										},
 										{
@@ -594,8 +594,8 @@
 												"$ref": "AAAAAAFoUxTmr1ymks8="
 											},
 											"font": "Arial;13;1",
-											"left": 349,
-											"top": 159,
+											"left": 341,
+											"top": 151,
 											"width": 775,
 											"height": 13,
 											"text": "Processus de formation des employés"
@@ -608,8 +608,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 208,
-											"top": 256,
+											"left": 192,
+											"top": 240,
 											"width": 80.9072265625,
 											"height": 13,
 											"text": "(from Model1)"
@@ -622,15 +622,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 208,
-											"top": 256,
+											"left": 192,
+											"top": 240,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 344,
-									"top": 152,
+									"left": 336,
+									"top": 144,
 									"width": 785,
 									"height": 25,
 									"stereotypeLabel": {
@@ -648,8 +648,8 @@
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 344,
-							"top": 152,
+							"left": 336,
+							"top": 144,
 							"width": 785,
 							"height": 825,
 							"nameCompartment": {
@@ -1325,7 +1325,7 @@
 											"top": 863,
 											"width": 203,
 											"height": 13,
-											"text": "Cas 10",
+											"text": "Cas 09",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1815,7 +1815,7 @@
 											"top": 311,
 											"width": 177,
 											"height": 13,
-											"text": "Cas 05",
+											"text": "Cas 03",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2795,7 +2795,7 @@
 											"top": 743,
 											"width": 229,
 											"height": 13,
-											"text": "Cas 07",
+											"text": "Cas 08",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3558,7 +3558,7 @@
 											"top": 583,
 											"width": 223,
 											"height": 13,
-											"text": "Cas 12",
+											"text": "Cas 07",
 											"horizontalAlignment": 0
 										}
 									],
@@ -4321,7 +4321,7 @@
 											"top": 911,
 											"width": 100,
 											"height": 13,
-											"text": "Cas 11",
+											"text": "Cas 10",
 											"horizontalAlignment": 0
 										}
 									],
@@ -4811,7 +4811,7 @@
 											"top": 583,
 											"width": 233,
 											"height": 13,
-											"text": "Cas 08",
+											"text": "Cas 06",
 											"horizontalAlignment": 0
 										}
 									],
@@ -7243,7 +7243,7 @@
 											"top": 479,
 											"width": 228,
 											"height": 13,
-											"text": "Cas 06",
+											"text": "Cas 05",
 											"horizontalAlignment": 0
 										}
 									],
@@ -10206,7 +10206,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoUzOWVWBIfrM="
 							},
-							"name": "Cas 10"
+							"name": "Cas 09"
 						}
 					]
 				},
@@ -10366,7 +10366,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoUzckPGobzzA="
 							},
-							"name": "Cas 05"
+							"name": "Cas 03"
 						}
 					]
 				},
@@ -10490,7 +10490,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoUzpBPW4dwQU="
 							},
-							"name": "Cas 07"
+							"name": "Cas 08"
 						}
 					]
 				},
@@ -10565,7 +10565,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoUzyl/nOFPl8="
 							},
-							"name": "Cas 12"
+							"name": "Cas 07"
 						}
 					]
 				},
@@ -10747,7 +10747,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoU0BFXISKfnY="
 							},
-							"name": "Cas 11"
+							"name": "Cas 10"
 						}
 					]
 				},
@@ -10795,7 +10795,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoU0EAs4dyvXM="
 							},
-							"name": "Cas 08"
+							"name": "Cas 06"
 						}
 					]
 				},
@@ -12158,7 +12158,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoV53oYexHwMY="
 							},
-							"name": "Cas 06"
+							"name": "Cas 05"
 						}
 					]
 				},
